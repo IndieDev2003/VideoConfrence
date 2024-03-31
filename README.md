@@ -146,11 +146,6 @@ flutter build web
 3. Share the meeting link with other participants
 4. Start the meeting and utilize the available features
 
-## 🛠 Selfhosted Waterbus
-
-- [Waterbus Server API](https://github.com/waterbustech/waterbus-restful-service)
-- [Waterbus Server WebSocket & SFU](https://github.com/waterbustech/waterbus-sfu-meeting)
-- [Waterbus Documents](https://docs.waterbus.tech)
 
 ## ⏲️ Benchmarking
 
