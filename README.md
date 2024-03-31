@@ -162,67 +162,7 @@ flutter build web
 - **Model:** iPhone 13
 - **Operating System:** iOS 17.0.2
 
-#### 🌟 Results
 
-You can view the benchmark results in the generated plots and data files. Here's how you can interpret the results:
-
-<details>
-  <summary>VP8</summary>
-  - Total encode time: 9325 (µs) in 60s call
-
-  <picture>
-    <source width="100%" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="./benchmark/vp8-benchmark-plot.png">
-    <img width="100%" alt="lambiengcode" src="./benchmark/vp8-benchmark-plot-light.png">
-  </picture>
-</details>
-<details>
-  <summary>VP9</summary>
-  - Total encode time: 12091 (µs) in 60s call
-  
-  <picture>
-    <source width="100%" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="./benchmark/vp9-benchmark-plot.png">
-    <img width="100%" alt="lambiengcode" src="./benchmark/vp9-benchmark-plot-light.png">
-  </picture>
-</details>
-<details>
-  <summary>H264</summary>
-  - Total encode time: 11127 (µs) in 60s call
-  
-  <picture>
-    <source width="100%" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="./benchmark/h264-benchmark-plot.png">
-    <img width="100%" alt="lambiengcode" src="./benchmark/h264-benchmark-plot-light.png">
-  </picture>
-</details>
-<details>
-  <summary>H265</summary>
-  - Total encode time: 9264 (µs) in 60s call
-  
-  <picture>
-    <source width="100%" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="./benchmark/h265-benchmark-plot.png">
-    <img width="100%" alt="lambiengcode" src="./benchmark/h265-benchmark-plot-light.png">
-  </picture>
-</details>
-<details>
-  <summary>AV1</summary>
-  - Total encode time: 13615 (µs) in 60s call
-  
-  <picture>
-    <source width="100%" alt="lambiengcode" media="(prefers-color-scheme: dark)" srcset="./benchmark/av1-benchmark-plot.png">
-    <img width="100%" alt="lambiengcode" src="./benchmark/av1-benchmark-plot-light.png">
-  </picture>
-</details>
-
-## 💙 Supports
-
-Support it by joining [stargazers](https://github.com/lambiengcode/waterbus/stargazers) for this repository. ⭐
-
-Also, follow [maintainers](https://github.com/lambiengcode) on GitHub for our next creations!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lambiengcode/waterbus&type=Date&theme=dark)](https://star-history.com/#lambiengcode/waterbus&Date#gh-dark-mode-only)
-[![Star History Chart](https://api.star-history.com/svg?repos=lambiengcode/waterbus&type=Date)](https://star-history.com/#lambiengcode/waterbus&Date#gh-light-mode-only)
-
-[![Stargazers repo roster for @lambiengcode/waterbus](https://reporoster.com/stars/notext/dark/lambiengcode/waterbus)](https://github.com/lambiengcode/waterbus/stargazers/#lambiengcode/waterbus&Date#gh-dark-mode-only)
-[![Stargazers repo roster for @lambiengcode/waterbus](https://reporoster.com/stars/notext/lambiengcode/waterbus)](https://github.com/lambiengcode/waterbus/stargazers/#gh-light-mode-only)
 
 ## 🤝 Contributing
 
@@ -230,5 +170,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## 📧 Contact Information
 
-If you have any questions or suggestions related to this application, please contact me via email: `lambiengcode@gmail.com`.
+If you have any questions or suggestions related to this application, please contact me via email: `ilovescience584@gmail.com`.
 
